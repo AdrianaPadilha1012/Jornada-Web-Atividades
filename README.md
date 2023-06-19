@@ -11,6 +11,6 @@ Atividade Jornada HTML/CSS 2023
      Sobre a SEED
   </head>
   <body>
-    <h1>SECRETARIA DA EDUCAÇÃO SECRETARIA DA EDUCAÇÃO</h1>
+    <h1>SECRETARIA DA EDUCAÇÃO </h1>
   </body>
 </html>
